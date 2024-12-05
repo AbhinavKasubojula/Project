@@ -1,0 +1,21 @@
+
+
+services:
+  ollama:
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - "3000:8080"  # Ollama running on host port 3000
+
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    ports:
+      - "8081:8080"
+    environment:
+      QUERY_DEFAULTS_LIMIT: 20
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: "/var/lib/weaviate"
+    volumes:
+      - C:/Users/AbhinavKasubojula/OneDrive - Kenall Inc/Desktop/code/stored_data:/var/lib/docker/volumes/weaviate_data/_data
+volumes:
+  weaviate_data:
+    driver: local
