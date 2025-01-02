@@ -1,20 +1,17 @@
 services:
   weaviate:
     image: cr.weaviate.io/semitechnologies/weaviate:1.28.1
-    restart: on-failure:0
     ports:
-    - 8081:8080
-    - 50051:50051
+      - 8082:8080
+      - 50051:50051
     environment:
       QUERY_DEFAULTS_LIMIT: 20
       AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
       PERSISTENCE_DATA_PATH: "./data"
-      DEFAULT_VECTORIZER_MODULE: text2vec-transformers
-      ENABLE_MODULES: text2vec-transformers
-      TRANSFORMERS_INFERENCE_API: http://t2v-transformers:8081
+      # Remove or modify this line to disable transformers
+      DEFAULT_VECTORIZER_MODULE: none  # No vectorizer or configure another module
+      ENABLE_MODULES: ""
       CLUSTER_HOSTNAME: 'node1'
-  t2v-transformers:
-    image: cr.weaviate.io/semitechnologies/transformers-inference:sentence-transformers-multi-qa-MiniLM-L6-cos-v1
-    environment:
-      ENABLE_CUDA: 0 # set to 1 to enable
-      # NVIDIA_VISIBLE_DEVICES: all # enable if running with CUDA
+    # Remove the `depends_on` section for transformers
+    depends_on:
+      # - t2v-transformers  # This should be removed
