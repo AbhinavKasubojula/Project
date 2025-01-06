@@ -4,14 +4,12 @@ services:
     ports:
       - 8082:8080
       - 50051:50051
+    volumes:
+      - ./weaviate_data:/var/lib/weaviate
     environment:
       QUERY_DEFAULTS_LIMIT: 20
       AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
       PERSISTENCE_DATA_PATH: "./data"
-      # Remove or modify this line to disable transformers
       DEFAULT_VECTORIZER_MODULE: none  # No vectorizer or configure another module
       ENABLE_MODULES: ""
       CLUSTER_HOSTNAME: 'node1'
-    # Remove the `depends_on` section for transformers
-    depends_on:
-      # - t2v-transformers  # This should be removed
