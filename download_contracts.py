@@ -3,28 +3,36 @@ import json
 import csv
 from datetime import datetime, timedelta
 import config
+import os
 
-# Access APIs
-API = config.API_KEYS["sam_api"]
-URL = config.URL["sam_url"]
-ncode1 = config.DATABASE["ncode1"]
-ncode2 = config.DATABASE["ncode2"]
-# Get today's date
+n = input("enter 1 -> sam, 2 -> alpha  -  ")
+API = config.API_KEYS["alpha_sam"] if n == 1 else config.API_KEYS["sam_api"]
+
+n = input("enter 1 -> sam url, 2 -> alpha url  -  ")
+URL = config.URL["alpha_url"] if n==1 else config.URL["sam_url"]
+
+n = input("enter 1 -> 541330, 2 -> 541320  -  ")
+ncode = config.DATABASE["ncode3"] if n==1 else config.DATABASE["ncode1"]
+
 today_date = datetime.today()
 
-# Format today's date as MM/DD/YYYY
 today_text = today_date.strftime("%m/%d/%Y")
 
-# Get yesterday's date
 yesterday_date = today_date - timedelta(days=1)
 
-# Format yesterday's date as MM/DD/YYYY
 yesterday_text = yesterday_date.strftime("%m/%d/%Y")
+yesterday = yesterday_date.strftime("%m-%d-%Y")
+save_folder = "downloaded_data"
+if not os.path.exists(save_folder):
+    os.makedirs(save_folder)  # Create the folder if it doesn't exist
 
-api_url = f"{URL}&api_key={API}&postedFrom={yesterday_text}&postedTo={today_text}&ncode={ncode1}"
+# Generate the file name with the correct format
+file_name = f"{yesterday}_{ncode}.JSON"
+file_path = os.path.join(save_folder, file_name)
+
+api_url = f"{URL}&api_key={API}&postedFrom={yesterday_text}&postedTo={today_text}&ncode={ncode}"
+#api_url = "https://api.sam.gov/prod/opportunities/v2/search?deptname=general&limit=100&api_key=vuJ9yFCVSsdyCOji0UoYBWvNOI2ZKJB0xeoqMsjp&postedFrom=01/01/2025&postedTo=01/17/2025&ptype=a&ncode=541330"
 print(api_url)
-# Define the API URL
-#api_url = "https://api.sam.gov/opportunities/v2/search?limit=10&api_key=rbMq9Ts3Lw123csLQ2sLRuQmNxY5sunID7nM2vwi&postedFrom=01/05/2025&postedTo=07/12/2025&ncode=332613"
 
 
 def get_Json(api_url):
@@ -38,7 +46,7 @@ def get_Json(api_url):
         
         # Print the JSON response or process the data as needed
         print(data)
-        json_file_path = r"C:\Users\AbhinavKasubojula\OneDrive - Kenall Inc\Desktop\code\downloaded_data\response_data.json"
+        json_file_path = file_path
         with open(json_file_path, 'w') as json_file:
             json.dump(data, json_file, indent=4)
 
@@ -67,7 +75,7 @@ def get_csvFromJson(data):
         csv_data.append(row)
 
     # Write the data to a CSV file with dynamic headers
-    csv_file_path =r"C:\Users\AbhinavKasubojula\OneDrive - Kenall Inc\Desktop\code\downloaded_data\dynamic_headers_data.csv"
+    csv_file_path =SaveAT
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=headers, delimiter=',')
         writer.writeheader()  # Write the headers
@@ -78,4 +86,4 @@ def get_csvFromJson(data):
 
 data = get_Json(api_url)
 
-get_csvFromJson(data)
+#get_csvFromJson(data)

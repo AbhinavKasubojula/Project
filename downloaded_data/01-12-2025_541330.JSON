@@ -1,0 +1,3617 @@
+{
+    "totalRecords": 43,
+    "limit": 100,
+    "offset": 0,
+    "opportunitiesData": [
+        {
+            "noticeId": "eaad211b474d4498bcb1fd40b3d1ee1e",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-10",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-09",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-10T11:12:13-05:00",
+            "naicsCode": "314110",
+            "naicsCodes": [
+                "314110"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-10",
+                "number": "47QSMA25D000W",
+                "amount": "14000000",
+                "awardee": {
+                    "name": "Forcepoint Federal LLC 1 bucket test",
+                    "location": {
+                        "city": {
+                            "code": "36648",
+                            "name": "Herndon"
+                        },
+                        "state": {
+                            "code": "VA",
+                            "name": "Virginia"
+                        },
+                        "zip": "20170-6024",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "G4J1RJ94JBU1",
+                    "cageCode": "029J2"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Venus Hu 202-203-9200 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=eaad211b474d4498bcb1fd40b3d1ee1e",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/eaad211b474d4498bcb1fd40b3d1ee1e/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=eaad211b474d4498bcb1fd40b3d1ee1e&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "abf28ac605284802801e605771b61ffd",
+            "title": "AUTOM0110250454",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-10",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=abf28ac605284802801e605771b61ffd",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/abf28ac605284802801e605771b61ffd/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=abf28ac605284802801e605771b61ffd&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/97d02a103ea04900b701606f842122f3/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/bfc90edb2fdb4da7906aa152d5767878/download"
+            ]
+        },
+        {
+            "noticeId": "57c9ea7b735c4429b4f9485fa699b3a7",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS CENTER FOR IT SCHEDULE PROG",
+            "fullParentPathCode": "047.4732.47QTCA",
+            "postedDate": "2025-01-10",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-09",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-10T11:12:13-05:00",
+            "naicsCode": "339930",
+            "naicsCodes": [
+                "339930"
+            ],
+            "classificationCode": "20",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-10",
+                "number": "47QTCA25D000K",
+                "amount": "567569268",
+                "awardee": {
+                    "name": "JETechnology Solutions, Inc. ",
+                    "location": {
+                        "city": {
+                            "code": "1700",
+                            "name": "Apopka"
+                        },
+                        "state": {
+                            "code": "FL",
+                            "name": "Florida"
+                        },
+                        "zip": "32703-7761",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "XW3QMN7E3NY9",
+                    "cageCode": "4FKL5"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Poojitha Kanagala 518-518-5188 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=57c9ea7b735c4429b4f9485fa699b3a7",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "20405",
+                "city": "WASHINGTON",
+                "countryCode": "USA",
+                "state": "DC"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/57c9ea7b735c4429b4f9485fa699b3a7/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=57c9ea7b735c4429b4f9485fa699b3a7&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "0575da21167641d6915192332c75606b",
+            "title": "AUTOM0110250408",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-10",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=0575da21167641d6915192332c75606b",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/0575da21167641d6915192332c75606b/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=0575da21167641d6915192332c75606b&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/74120b15a92f45269821a93eb7d18f39/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/e61d601098eb49928d2d585d76fd4fc3/download"
+            ]
+        },
+        {
+            "noticeId": "e9e1936b6d0d4c2abf33b66233cc5f0e",
+            "title": "AUTOM0109250925",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-09",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=e9e1936b6d0d4c2abf33b66233cc5f0e",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/e9e1936b6d0d4c2abf33b66233cc5f0e/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=e9e1936b6d0d4c2abf33b66233cc5f0e&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "9f41250e5d1c4b51a0b473c9737f06e9",
+            "title": "AUTOM0109250841",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-09",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=9f41250e5d1c4b51a0b473c9737f06e9",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/9f41250e5d1c4b51a0b473c9737f06e9/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=9f41250e5d1c4b51a0b473c9737f06e9&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "91f0d10bb1b14b93815d8b47a8ee58e5",
+            "title": "AUTOM0109250912",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-09",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=91f0d10bb1b14b93815d8b47a8ee58e5",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/91f0d10bb1b14b93815d8b47a8ee58e5/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=91f0d10bb1b14b93815d8b47a8ee58e5&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/82d10ca3631644fd900e866ce88b67ba/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/f33fc327d7f74a05b5b3fe979b9f4c04/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/f7d2ef7783924d669d590fb4e4532d36/download"
+            ]
+        },
+        {
+            "noticeId": "70b8cefed55e464b999afdb52c998e30",
+            "title": "AUTOM0109250920",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-09",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=70b8cefed55e464b999afdb52c998e30",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/70b8cefed55e464b999afdb52c998e30/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=70b8cefed55e464b999afdb52c998e30&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/1c9b886490e14436a8140b5d248204d0/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/c8142193ebb14b70bc6b4c4ed6d0204f/download"
+            ]
+        },
+        {
+            "noticeId": "2e96ddf35b0145a58c75fb3dab250778",
+            "title": "AUTOM0109250835",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-09",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=2e96ddf35b0145a58c75fb3dab250778",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/2e96ddf35b0145a58c75fb3dab250778/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=2e96ddf35b0145a58c75fb3dab250778&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/2cc70b491f284b72a11f88996499ed31/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/7e405d3f93764ec0875cd064e794e0ee/download"
+            ]
+        },
+        {
+            "noticeId": "0f949ea1b9dd4d9e996e003cffe1f6e4",
+            "title": "AUTOM0109250829",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-09",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=0f949ea1b9dd4d9e996e003cffe1f6e4",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/0f949ea1b9dd4d9e996e003cffe1f6e4/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=0f949ea1b9dd4d9e996e003cffe1f6e4&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/3ea0c0d9c842457198ae2b225b51477c/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/b1789503a22e4c65a8b64ff23776ba37/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/c4691643a48d4ac888f39820762daed7/download"
+            ]
+        },
+        {
+            "noticeId": "f37f4c43b4244a2e94705048cbd24e4a",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-07",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-08T11:12:13-05:00",
+            "naicsCode": "541513",
+            "naicsCodes": [
+                "541513"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-08",
+                "number": "47QTCA25D001E",
+                "amount": "540000",
+                "awardee": {
+                    "name": "GlobalSCAPE, Inc.",
+                    "location": {
+                        "city": {
+                            "code": "65000",
+                            "name": "San Antonio"
+                        },
+                        "state": {
+                            "code": "TX",
+                            "name": "Texas"
+                        },
+                        "zip": "78249-3553",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "D2LAXAMAVRG3",
+                    "cageCode": "1YG29"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Nuerzhati Yijiati 123-030-3030 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=f37f4c43b4244a2e94705048cbd24e4a",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/f37f4c43b4244a2e94705048cbd24e4a/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=f37f4c43b4244a2e94705048cbd24e4a&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "de8e0293f0004e099f4473ff696ade5e",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-07",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-08T11:12:13-05:00",
+            "naicsCode": "314110",
+            "naicsCodes": [
+                "314110"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-08",
+                "number": "47QTCA25D001C",
+                "amount": "14000000",
+                "awardee": {
+                    "name": "Aperture Films, Ltd. ",
+                    "location": {
+                        "city": {
+                            "name": "IRVINE"
+                        },
+                        "state": {
+                            "name": "CA"
+                        },
+                        "zip": "92618-4237",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L78BLJR74KB4",
+                    "cageCode": "1THZ3"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Venus Hu 202-203-9200 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=de8e0293f0004e099f4473ff696ade5e",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/de8e0293f0004e099f4473ff696ade5e/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=de8e0293f0004e099f4473ff696ade5e&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "c3f3244ea98742f9a89b391799229818",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-07",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-08T11:12:13-05:00",
+            "naicsCode": "314110",
+            "naicsCodes": [
+                "314110"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-08",
+                "number": "47QSMA25D000T",
+                "amount": "540000",
+                "awardee": {
+                    "name": "KEPLER RESEARCH INC.",
+                    "location": {
+                        "city": {
+                            "code": "87312",
+                            "name": "Woodbridge"
+                        },
+                        "state": {
+                            "code": "VA",
+                            "name": "Virginia"
+                        },
+                        "zip": "22192-4216",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "HVXKAJL5DMC7",
+                    "cageCode": "1WU70"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Nuerzhati Yijiati 123-030-3030 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=c3f3244ea98742f9a89b391799229818",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/c3f3244ea98742f9a89b391799229818/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=c3f3244ea98742f9a89b391799229818&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "c01887ca22654a81a355b3a47e0ac105",
+            "title": "AUTOM0108250836",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=c01887ca22654a81a355b3a47e0ac105",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/c01887ca22654a81a355b3a47e0ac105/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=c01887ca22654a81a355b3a47e0ac105&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "7e5b3d9f1ecc47938fe768712c962947",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-07",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-08T11:12:13-05:00",
+            "naicsCode": "314110",
+            "naicsCodes": [
+                "314110"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-08",
+                "number": "47QTCA25D001D",
+                "amount": "540000",
+                "awardee": {
+                    "name": "KT Consulting, Inc.",
+                    "location": {
+                        "city": {
+                            "code": "55000",
+                            "name": "Phoenix"
+                        },
+                        "state": {
+                            "code": "AZ",
+                            "name": "Arizona"
+                        },
+                        "zip": "85048-7650",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "WHH9LHLLN7L4",
+                    "cageCode": "1X2F2"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Nuerzhati Yijiati 123-030-3030 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=7e5b3d9f1ecc47938fe768712c962947",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/7e5b3d9f1ecc47938fe768712c962947/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=7e5b3d9f1ecc47938fe768712c962947&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "3a09169d57274b46928e7113fddb4932",
+            "title": "AUTOM0108250832",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=3a09169d57274b46928e7113fddb4932",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/3a09169d57274b46928e7113fddb4932/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=3a09169d57274b46928e7113fddb4932&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/5289e42c38ad46c3b33755dc03d6dfff/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/896cc0f143974dbbbe095df163cb4d8d/download"
+            ]
+        },
+        {
+            "noticeId": "18c20107934848a5ba6ab681da0f28a7",
+            "title": "AUTOM0108250827",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=18c20107934848a5ba6ab681da0f28a7",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/18c20107934848a5ba6ab681da0f28a7/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=18c20107934848a5ba6ab681da0f28a7&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/186f0c9087364692b777eaac904c80eb/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/728c2489ff084cedb44491b030644130/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/f481be6c4bf84ba9a56d985576a52a6d/download"
+            ]
+        },
+        {
+            "noticeId": "04c2d9a9381f44f0a1de01c7e4c18e11",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-08",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-07",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-08T11:12:13-05:00",
+            "naicsCode": "337127",
+            "naicsCodes": [
+                "337127"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-08",
+                "number": "47QSMA25D000S",
+                "amount": "14000000",
+                "awardee": {
+                    "name": "PHOTRON USA INC 1 bucket test",
+                    "location": {
+                        "city": {
+                            "name": "DIEGO"
+                        },
+                        "state": {
+                            "name": "CA"
+                        },
+                        "zip": "92126-4446",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "NE64PKKS21D1",
+                    "cageCode": "1YDX8"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Venus Hu 202-203-9200 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=04c2d9a9381f44f0a1de01c7e4c18e11",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/04c2d9a9381f44f0a1de01c7e4c18e11/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=04c2d9a9381f44f0a1de01c7e4c18e11&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "b2553409159d45deab832a791aa9e0ee",
+            "title": "AUTOM0107251251",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-07",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=b2553409159d45deab832a791aa9e0ee",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/b2553409159d45deab832a791aa9e0ee/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=b2553409159d45deab832a791aa9e0ee&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/483b9189f85044d6b4621d855ede1995/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/7b9b3c207f6e42c1a85eb297182b700b/download"
+            ]
+        },
+        {
+            "noticeId": "a88e719a6b2349d588259776a100ca7b",
+            "title": "AUTOM0107251246",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-07",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=a88e719a6b2349d588259776a100ca7b",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/a88e719a6b2349d588259776a100ca7b/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=a88e719a6b2349d588259776a100ca7b&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/14b4295bac3949a1abcfed3e6dd834a2/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/76d4de7c94a8400d8d521d0599c3b349/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/bfcbab97bd884164b8141a278c89cbdd/download"
+            ]
+        },
+        {
+            "noticeId": "9557821055ae4a9f890c54d31220a071",
+            "title": "AUTOM0107251256",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-07",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=9557821055ae4a9f890c54d31220a071",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/9557821055ae4a9f890c54d31220a071/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=9557821055ae4a9f890c54d31220a071&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "c5cce0e3fd284f319439ad9ab861d078",
+            "title": "AUTOM0106250914",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-06",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=c5cce0e3fd284f319439ad9ab861d078",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/c5cce0e3fd284f319439ad9ab861d078/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=c5cce0e3fd284f319439ad9ab861d078&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/0daf7fec6ed24324b5753388db3dd082/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/db6084b80134471d8c9d7df885b3c675/download"
+            ]
+        },
+        {
+            "noticeId": "9afc2a7bbfdf443d84fd8923b5da2a43",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS CENTER FOR IT SCHEDULE PROG",
+            "fullParentPathCode": "047.4732.47QTCA",
+            "postedDate": "2025-01-06",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-05",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-06T11:12:13-05:00",
+            "naicsCode": "314110",
+            "naicsCodes": [
+                "314110"
+            ],
+            "classificationCode": "20",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-06",
+                "number": "47QSMA25D000H",
+                "amount": "800000",
+                "awardee": {
+                    "name": "KRUEGER INTERNATIONAL, INC.",
+                    "location": {
+                        "city": {
+                            "name": "BAY"
+                        },
+                        "state": {
+                            "code": "WI",
+                            "name": "Wisconsin"
+                        },
+                        "zip": "54302-2119",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "PAZHQEMYTSD8",
+                    "cageCode": "9J388"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Jerald Aruldass 234-234-2342 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=9afc2a7bbfdf443d84fd8923b5da2a43",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "20405",
+                "city": "WASHINGTON",
+                "countryCode": "USA",
+                "state": "DC"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/9afc2a7bbfdf443d84fd8923b5da2a43/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=9afc2a7bbfdf443d84fd8923b5da2a43&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "64b01ca0782f4158adc9ee2635ba8613",
+            "title": "AUTOM0106250909",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-06",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=64b01ca0782f4158adc9ee2635ba8613",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/64b01ca0782f4158adc9ee2635ba8613/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=64b01ca0782f4158adc9ee2635ba8613&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/2604ef4bf09e4a658273ce7d361a6d43/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/a08f84ba12a048de827fa8d9f3464b02/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/adbab1532e684833bf7806d0fccec385/download"
+            ]
+        },
+        {
+            "noticeId": "0b5d6995652742729dbcf5de2893de00",
+            "title": "AUTOM0106250918",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-06",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=0b5d6995652742729dbcf5de2893de00",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/0b5d6995652742729dbcf5de2893de00/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=0b5d6995652742729dbcf5de2893de00&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "b7d5e614127e46bf92c31c10e0c8cb6f",
+            "title": "KSP -- S205",
+            "solicitationNumber": "QSE--36C78625Q50029",
+            "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.NATIONAL CEMETERY ADMIN (36C786)",
+            "fullParentPathCode": "036.3600.36C786",
+            "postedDate": "2025-01-03",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "autocustom",
+            "archiveDate": "2025-06-25",
+            "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+            "typeOfSetAside": "SDVOSBC",
+            "responseDeadLine": null,
+            "naicsCode": "562111",
+            "naicsCodes": [
+                "562111"
+            ],
+            "classificationCode": "S205",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-03",
+                "number": "QAE--36C78625C50102",
+                "amount": "82400",
+                "awardee": {
+                    "name": "TRI-COUNTY RECYCLING INC",
+                    "ueiSAM": "GC28NHGFFLT6",
+                    "cageCode": "7FA43"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": "",
+                    "type": "primary",
+                    "email": "no_reply@va.gov",
+                    "phone": "510-637-6287",
+                    "title": "Contracting Officer",
+                    "fullName": "Brian Trahan"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=b7d5e614127e46bf92c31c10e0c8cb6f",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "22134",
+                "city": "QUANTICO",
+                "countryCode": "USA",
+                "state": "VA"
+            },
+            "placeOfPerformance": {
+                "streetAddress": "Florida National Cemetery; 6502 SW 102nd Avenue",
+                "streetAddress2": "0",
+                "city": {
+                    "code": "9625",
+                    "name": "Bushnell"
+                },
+                "state": {
+                    "code": "FL",
+                    "name": "Florida"
+                },
+                "zip": "33513",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/b7d5e614127e46bf92c31c10e0c8cb6f/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=b7d5e614127e46bf92c31c10e0c8cb6f&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "7bce84b8b2714860a4b5e092b6973d7b",
+            "title": "AUTOM0103250258",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-03",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=7bce84b8b2714860a4b5e092b6973d7b",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/7bce84b8b2714860a4b5e092b6973d7b/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=7bce84b8b2714860a4b5e092b6973d7b&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/135bf647a1cf4128908888abc5402de0/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/cc2161a2ae294f0b8dd00dde4ee06404/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/e4bab5b34fc74f5e9080f20a6f3d217b/download"
+            ]
+        },
+        {
+            "noticeId": "4831c339da7f401e8d5c7a6d48e22b86",
+            "title": "AUTOM0103250302",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-03",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=4831c339da7f401e8d5c7a6d48e22b86",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/4831c339da7f401e8d5c7a6d48e22b86/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=4831c339da7f401e8d5c7a6d48e22b86&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/268602814dbd45cbb0f4f7381a4aba29/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/b0dcde174fe24ec982055f44e0c2b052/download"
+            ]
+        },
+        {
+            "noticeId": "0d27543d5fff4d7097645491c270ee9d",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS CENTER FOR IT SCHEDULE PROG",
+            "fullParentPathCode": "047.4732.47QTCA",
+            "postedDate": "2025-01-03",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-02",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-03T11:12:13-05:00",
+            "naicsCode": "314110",
+            "naicsCodes": [
+                "314110"
+            ],
+            "classificationCode": "20",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-03",
+                "number": "47QSMA25D000G",
+                "amount": "400000",
+                "awardee": {
+                    "name": "Transcendence, Inc.",
+                    "location": {
+                        "city": {
+                            "name": "MONTGOMERY"
+                        },
+                        "state": {
+                            "name": "AL"
+                        },
+                        "zip": "36104-7101",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "HATGMZT7YGS2",
+                    "cageCode": "3L2X7"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Gordo Canchola 518-734-1132 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=0d27543d5fff4d7097645491c270ee9d",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "20405",
+                "city": "WASHINGTON",
+                "countryCode": "USA",
+                "state": "DC"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/0d27543d5fff4d7097645491c270ee9d/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=0d27543d5fff4d7097645491c270ee9d&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "022c5837ca564f6789b614b5b757af80",
+            "title": "AUTOM0103250306",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-03",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=022c5837ca564f6789b614b5b757af80",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/022c5837ca564f6789b614b5b757af80/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=022c5837ca564f6789b614b5b757af80&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "e8198995ce0f43b781b546816721628f",
+            "title": "AUTOM0102251042",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=e8198995ce0f43b781b546816721628f",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/e8198995ce0f43b781b546816721628f/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=e8198995ce0f43b781b546816721628f&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/1aba0a56eefd45a1913f9bbf08737009/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/5ec393db520c489e86d7c799113a7d67/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/f3ad2f563bc849979487f92fad639cad/download"
+            ]
+        },
+        {
+            "noticeId": "df23d46efe61451ca2fc776858d56c2d",
+            "title": "AUTOM0102250234",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=df23d46efe61451ca2fc776858d56c2d",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/df23d46efe61451ca2fc776858d56c2d/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=df23d46efe61451ca2fc776858d56c2d&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "d3f067227828467eb92e101d79ca49b4",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-01",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-02T11:12:13-05:00",
+            "naicsCode": "337127",
+            "naicsCodes": [
+                "337127"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-02",
+                "number": "47QSMA25D000Q",
+                "amount": "14000000",
+                "awardee": {
+                    "name": "XS INTERNATIONAL, INC.",
+                    "location": {
+                        "city": {
+                            "code": "1696",
+                            "name": "Alpharetta"
+                        },
+                        "state": {
+                            "code": "GA",
+                            "name": "Georgia"
+                        },
+                        "zip": "30005",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "NQMMYZVJSDA4",
+                    "cageCode": "0T5L0"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Venus Hu 202-203-9200 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=d3f067227828467eb92e101d79ca49b4",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/d3f067227828467eb92e101d79ca49b4/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=d3f067227828467eb92e101d79ca49b4&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "c0a53230abcb4a748125c3f649d60692",
+            "title": "AUTOM0102250229",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=c0a53230abcb4a748125c3f649d60692",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/c0a53230abcb4a748125c3f649d60692/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=c0a53230abcb4a748125c3f649d60692&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/2a2d43f3473f4c1abb9a7776a1091d27/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/39e0d85564674f1cb8444e060ec8a5ad/download"
+            ]
+        },
+        {
+            "noticeId": "a1e3f801c8e74c2398d654ae48f5a79a",
+            "title": "AUTOM0102251100",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=a1e3f801c8e74c2398d654ae48f5a79a",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/a1e3f801c8e74c2398d654ae48f5a79a/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=a1e3f801c8e74c2398d654ae48f5a79a&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "91069278347b4601ace43aad4f659c43",
+            "title": "AUTOM0102251052",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=91069278347b4601ace43aad4f659c43",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/91069278347b4601ace43aad4f659c43/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=91069278347b4601ace43aad4f659c43&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/4ef487dd2f1a4fb7bac7ed9e81bd37b3/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/8c11ecc35066434688f87fdb37c44c6a/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/ce6503e5431047028b1af10c003a0168/download"
+            ]
+        },
+        {
+            "noticeId": "8f6fc29b79f34970ae4d9e305cf43d1c",
+            "title": "AUTOM0102250902",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Test LLC",
+                    "location": {
+                        "city": {
+                            "code": "50000",
+                            "name": "Washington"
+                        },
+                        "state": {
+                            "code": "DC",
+                            "name": "District of Columbia"
+                        },
+                        "zip": "20001",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=8f6fc29b79f34970ae4d9e305cf43d1c",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "50000",
+                    "name": "Washington"
+                },
+                "state": {
+                    "code": "DC",
+                    "name": "District of Columbia"
+                },
+                "zip": "20001",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/8f6fc29b79f34970ae4d9e305cf43d1c/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=8f6fc29b79f34970ae4d9e305cf43d1c&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "854c382471a847f983ca68baa15fc94b",
+            "title": "R--E2E-BPA Setup",
+            "solicitationNumber": "89303025FAB000006 ",
+            "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.HEADQUARTERS PROCUREMENT SERVICES",
+            "fullParentPathCode": "089.8900.893030",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2025-01-17",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": null,
+            "naicsCode": "541611",
+            "naicsCodes": [
+                "541611"
+            ],
+            "classificationCode": "R699",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-02",
+                "number": "89303025AAB000006",
+                "amount": "15000",
+                "awardee": {
+                    "name": "Building People, LLC, The",
+                    "location": {
+                        "streetAddress": "113 East Market St",
+                        "streetAddress2": "Suite 210",
+                        "city": {
+                            "code": "44984",
+                            "name": "Leesburg"
+                        },
+                        "state": {
+                            "code": "VA",
+                            "name": "Virginia"
+                        },
+                        "zip": "20176",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "H294NPGNMEB5",
+                    "cageCode": "6ZLN0"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "ryan.miller@hq.doe.gov",
+                    "phone": "301-820-8937",
+                    "title": null,
+                    "fullName": "Miller, Ryan J."
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=854c382471a847f983ca68baa15fc94b",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "20585",
+                "city": "WASHINGTON",
+                "countryCode": "USA",
+                "state": "DC"
+            },
+            "placeOfPerformance": {
+                "city": {},
+                "state": {},
+                "country": {}
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/854c382471a847f983ca68baa15fc94b/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=854c382471a847f983ca68baa15fc94b&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "74b60609e4d74b5d98616c4f9c42dd97",
+            "title": "AUTOM0102251056",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=74b60609e4d74b5d98616c4f9c42dd97",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/74b60609e4d74b5d98616c4f9c42dd97/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=74b60609e4d74b5d98616c4f9c42dd97&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/1ea6064f72ae41f6835d206b3d85dd65/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/8927fcf5c9a74231b1b113cb6c557c9f/download"
+            ]
+        },
+        {
+            "noticeId": "41a85cf6eecc4d72b66dd636d94320c4",
+            "title": "AUTOM0102250855",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "10000000.00",
+                "awardee": {
+                    "name": "Perspec1",
+                    "location": {
+                        "city": {
+                            "name": "THIMPHU"
+                        },
+                        "state": {
+                            "code": "BT-15",
+                            "name": "Thimphu"
+                        },
+                        "zip": "674774",
+                        "country": {
+                            "code": "BTN",
+                            "name": "BHUTAN"
+                        }
+                    }
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=41a85cf6eecc4d72b66dd636d94320c4",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "S\u00e3o Paulo",
+                    "name": "S\u00e3o Paulo"
+                },
+                "state": {
+                    "code": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "zip": "04914130",
+                "country": {
+                    "code": "BRA",
+                    "name": "BRAZIL"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/41a85cf6eecc4d72b66dd636d94320c4/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=41a85cf6eecc4d72b66dd636d94320c4&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/3b940d4fc6d54578a2d4e22a86befb07/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/7d53ce847bfd47dbb15dd1e36f478b74/download"
+            ]
+        },
+        {
+            "noticeId": "2ceea2eb70c44d898adcae3e422a316a",
+            "title": "C--The purpose of this modification is to extend cont",
+            "solicitationNumber": "TESTFRSP14",
+            "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.HEADQUARTERS PROCUREMENT SERVICES",
+            "fullParentPathCode": "089.8900.893030",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2025-01-17",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": null,
+            "naicsCode": "561210",
+            "naicsCodes": [
+                "561210"
+            ],
+            "classificationCode": "C1AZ",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-02",
+                "number": "89303020DMA000012",
+                "amount": "135",
+                "awardee": {
+                    "name": "EMCOR Government Services, Inc. ",
+                    "location": {
+                        "streetAddress": "2800 CRYSTAL DRIVE",
+                        "streetAddress2": "SUITE 600",
+                        "city": {
+                            "code": "3000",
+                            "name": "Arlington"
+                        },
+                        "state": {
+                            "code": "VA",
+                            "name": "Virginia"
+                        },
+                        "zip": "22202",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "DNYGB48XJMK5",
+                    "duns": "858888761",
+                    "cageCode": "085P7"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "ramon.rios@hq.doe.gov",
+                    "phone": "240-220-1498",
+                    "title": null,
+                    "fullName": "Doyle, Dremayne T."
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=2ceea2eb70c44d898adcae3e422a316a",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "20585",
+                "city": "WASHINGTON",
+                "countryCode": "USA",
+                "state": "DC"
+            },
+            "placeOfPerformance": {
+                "city": {},
+                "state": {},
+                "country": {}
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/2ceea2eb70c44d898adcae3e422a316a/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=2ceea2eb70c44d898adcae3e422a316a&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        },
+        {
+            "noticeId": "24418a78435e4cbc9aa3a9cc11ab1d8a",
+            "title": "AUTOM0102250225",
+            "solicitationNumber": "A0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.GENERAL SERVICES ADMINISTRATION.DEPT OF PROPERTY  PROCUREMENT",
+            "fullParentPathCode": "047.4700.47X200",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Award Notice",
+            "archiveType": "auto15",
+            "archiveDate": "2026-10-16",
+            "typeOfSetAsideDescription": "Local Area Set-Aside (FAR 26.2)",
+            "typeOfSetAside": "LAS",
+            "responseDeadLine": null,
+            "naicsCode": "111110",
+            "naicsCodes": [
+                "111110"
+            ],
+            "classificationCode": "1005",
+            "active": "Yes",
+            "award": {
+                "date": "2026-10-01",
+                "number": "S0001",
+                "amount": "430.00",
+                "awardee": {
+                    "name": "ARKANSAS ECONOMIC DEVELOPMENT COMMISSION",
+                    "location": {
+                        "city": {
+                            "name": "Little Rock"
+                        },
+                        "state": {
+                            "code": "AR",
+                            "name": "Arkansas"
+                        },
+                        "zip": "72201",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "L24GRGF786R8",
+                    "cageCode": "5H3Q4"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": "testperspecta@gsa.gov",
+                    "phone": null,
+                    "title": null,
+                    "fullName": "TestPerspecta"
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=24418a78435e4cbc9aa3a9cc11ab1d8a",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "00802",
+                "city": "ST. THOMAS",
+                "countryCode": "USA",
+                "state": "VI"
+            },
+            "placeOfPerformance": {
+                "city": {
+                    "code": "66032",
+                    "name": "Rectortown"
+                },
+                "state": {
+                    "code": "VA",
+                    "name": "Virginia"
+                },
+                "zip": "20140",
+                "country": {
+                    "code": "USA",
+                    "name": "UNITED STATES"
+                }
+            },
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/24418a78435e4cbc9aa3a9cc11ab1d8a/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=24418a78435e4cbc9aa3a9cc11ab1d8a&limit=1"
+                }
+            ],
+            "resourceLinks": [
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/3c81e1a98c3d4d849ae216ccc3f444f2/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/732706ce419946c0a6a77f4b14533c8b/download",
+                "https://alpha.sam.gov/api/prodlike/opps/v3/opportunities/resources/files/d32fdb90a72a4fdcbe676074965e5599/download"
+            ]
+        },
+        {
+            "noticeId": "00057ddea98f4a83b1084d46d45b1c46",
+            "title": "Multiple Award Schedule",
+            "solicitationNumber": "47QSMD20R0001",
+            "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+            "fullParentPathCode": "047.4732.47QSMA",
+            "postedDate": "2025-01-02",
+            "type": "Award Notice",
+            "baseType": "Combined Synopsis/Solicitation",
+            "archiveType": "autocustom",
+            "archiveDate": "2030-01-01",
+            "typeOfSetAsideDescription": null,
+            "typeOfSetAside": null,
+            "responseDeadLine": "2025-01-02T11:12:13-05:00",
+            "naicsCode": "337127",
+            "naicsCodes": [
+                "337127"
+            ],
+            "classificationCode": "D",
+            "active": "Yes",
+            "award": {
+                "date": "2025-01-02",
+                "number": "47QSMA25D000R",
+                "amount": "14000000",
+                "awardee": {
+                    "name": "XS INTERNATIONAL, INC.",
+                    "location": {
+                        "city": {
+                            "code": "1696",
+                            "name": "Alpharetta"
+                        },
+                        "state": {
+                            "code": "GA",
+                            "name": "Georgia"
+                        },
+                        "zip": "30005",
+                        "country": {
+                            "code": "USA",
+                            "name": "UNITED STATES"
+                        }
+                    },
+                    "ueiSAM": "NQMMYZVJSDA4",
+                    "cageCode": "0T5L0"
+                }
+            },
+            "pointOfContact": [
+                {
+                    "fax": null,
+                    "type": "primary",
+                    "email": null,
+                    "phone": null,
+                    "title": null,
+                    "fullName": "Venus Hu 202-203-9200 "
+                }
+            ],
+            "description": "https://api-alpha.sam.gov/prodlike/opportunities/v1/noticedesc?noticeid=00057ddea98f4a83b1084d46d45b1c46",
+            "organizationType": "OFFICE",
+            "officeAddress": {
+                "zipcode": "19107",
+                "city": "PHILADELPHIA",
+                "countryCode": "USA",
+                "state": "PA"
+            },
+            "placeOfPerformance": null,
+            "additionalInfoLink": null,
+            "uiLink": "https://alpha.sam.gov/opp/00057ddea98f4a83b1084d46d45b1c46/view",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?noticeid=00057ddea98f4a83b1084d46d45b1c46&limit=1"
+                }
+            ],
+            "resourceLinks": null
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://api-alpha.sam.gov/prodlike/opportunities/v2/search?status=active&limit=100&postedFrom=01/01/2025&postedTo=01/10/2025&ptype=a"
+        }
+    ]
+}
