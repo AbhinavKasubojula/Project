@@ -1,15 +1,27 @@
+version: '3.4'
+
 services:
   weaviate:
-    image: cr.weaviate.io/semitechnologies/weaviate:1.28.1
+    image: semitechnologies/weaviate:1.28.1
     ports:
-      - 8080:8080
-      - 50051:50051
-    volumes:
-      - ./weaviate_data:/var/lib/weaviate
+      - "8080:8080"
+      - "50051:50051"
     environment:
-      QUERY_DEFAULTS_LIMIT: 20
-      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
-      PERSISTENCE_DATA_PATH: "./data"
-      DEFAULT_VECTORIZER_MODULE: none  # No vectorizer or configure another module
-      ENABLE_MODULES: ""
-      CLUSTER_HOSTNAME: 'node1'
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: "true"
+      ENABLE_MODULES: text2vec-ollama,generative-ollama  # Ensure both modules are enabled
+      DEFAULT_VECTORIZER_MODULE: text2vec-ollama
+      TEXT2VEC_OLLAMA_APIKEY: "http://ollama:11434"  # Use container name 'ollama' instead of localhost
+      TEXT2VEC_OLLAMA_ENDPOINT: "http://ollama:11434"  # Use container name 'ollama' instead of localhost
+      GENERATIVE_MODEL_APIKEY: ""  # Empty as you're not using this for now
+      GENERATIVE_MODEL_ENDPOINT: "http://ollama:11434"  # Use container name 'ollama' instead of localhost
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+volumes:
+  ollama_data:
